@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **Game development**
 - 📫 How to reach me **email: vit@vakula.cz**
 
-[Linkin Park](https:/vitekdev.github.io/VitekDev/Linkin Park.ppsx)
+[Linkin Park](https:/vitekdev.github.io/VitekDev/Linkin%20Park.ppsx)
 
 <!---
 VitekDev/VitekDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
