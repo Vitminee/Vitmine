@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@Vitmine**
+- 👋 Hi, I’m **@Vitminee**
 
 
 <!---
